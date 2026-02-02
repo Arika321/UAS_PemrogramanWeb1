@@ -17,3 +17,4 @@
 # halaman Laporan
 <img width="1366" height="668" alt="Image" src="https://github.com/user-attachments/assets/6074605d-ee98-4f3b-a04c-6a71e211a7b3" />
 
+<img width="1149" height="543" alt="Image" src="https://github.com/user-attachments/assets/b0f490d2-6241-4c72-8b42-c6d9a3820af9" />

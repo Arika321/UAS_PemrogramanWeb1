@@ -5,8 +5,12 @@
 <img width="1366" height="648" alt="image" src="https://github.com/user-attachments/assets/35dc5291-aeec-43e5-88bf-e550cc8ab657" />
 
 
-# halaman dashboard
+# halaman dashboard Admin
 <img width="1365" height="678" alt="Image" src="https://github.com/user-attachments/assets/af67d172-eec4-46ad-b125-aa5648dcde37" />
+
+# halaman dashboard Nasabah
+<img width="1366" height="681" alt="Image" src="https://github.com/user-attachments/assets/ae0eac13-29d3-4827-96d4-77d3de25e6d4" />
+
 
 # halaman data Nasabah
 <img width="1366" height="675" alt="Image" src="https://github.com/user-attachments/assets/cd3a9126-dd78-4bf4-967b-213992e7b607" />

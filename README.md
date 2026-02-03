@@ -27,3 +27,6 @@
 # halaman test koneksi
 <img width="1149" height="543" alt="Image" src="https://github.com/user-attachments/assets/b0f490d2-6241-4c72-8b42-c6d9a3820af9" />
 
+# VIDIO DEMO 
+https://drive.google.com/file/d/1ENRLX54BAXJ7PVwWa84_Tn63Ry-vhL_5/view?usp=drive_link
+

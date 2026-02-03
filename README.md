@@ -64,30 +64,90 @@ Program Studi : Teknik Informatika
 ## 🗂 Struktur Folder Utama
 
 ```
-UAS_Pemrograman-Web1
+UAS-PemrogramanWeb1-CleanTrash/
 │
-├── config
-│   └── koneksi.php
+├── index.php
+├── test.php
 │
-├── assets
-│   ├── css
-│   ├── js
-│   └── images
+├── asset/
+│   ├── css/
+│   │   └── style.css
+│   │
+│   ├── js/
+│   │   └── script.js
+│   │
+│   └── img/
 │
-├── uploads
-│   └── profile
+├── database/
+│   ├── db_cleantrash.sql
+│   └── db_cleantrans.sql
 │
-├── auth
+├── datatables/
+│   ├── datatables.min.css
+│   └── datatables.min.js
+│
+├── page/
+│   ├── admin.php
+│   ├── admin_data_sampah.php
+│   ├── admin_data_setor.php
+│   ├── admin_grafik.php
+│   ├── cek_login.php
+│   ├── config.php
+│   ├── dashboard.php
+│   ├── dashboard_nasabah.php
+│   ├── data.php
+│   ├── export_excel.php
+│   ├── export_excel_transaksi.php
+│   ├── export_pdf.php
+│   ├── export_pdf_transaksi.php
+│   ├── jenis_sampah.php
+│   ├── jenis_tambah.php
+│   ├── jenis_edit.php
+│   ├── jenis_hapus.php
+│   ├── laporan.php
+│   ├── laporan_cetak.php
 │   ├── login.php
+│   ├── logout.php
 │   ├── register.php
-│   └── logout.php
+│   ├── nasabah.php
+│   ├── nasabah_tambah.php
+│   ├── nasabah_edit.php
+│   ├── nasabah_hapus.php
+│   ├── transaksi.php
+│   ├── transaksi_tambah.php
+│   ├── transaksi_edit.php
+│   ├── transaksi_hapus.php
+│   ├── profil.php
+│   ├── profil_update.php
+│   │
+│   ├── components/
+│   │   ├── header.php
+│   │   ├── footer.php
+│   │   ├── navbar.php
+│   │   └── sidebar.php
+│   │
+│   └── js/
+│       ├── jquery.min.js
+│       ├── bootstrap.min.js
+│       ├── custom.js
+│       ├── scripts.js
+│       ├── select2.min.js
+│       └── select2.min.css
 │
-├── dashboard.php
-├── profile.php
-├── profile_edit.php
-├── profile_update.php
-├── laporan.php
-└── README.md
+├── system/
+│   ├── koneksi.php
+│   ├── session.php
+│   ├── functions.php
+│   │
+│   └── fpdf/
+│       ├── fpdf.php
+│       └── font/
+│
+├── uploads/
+│   └── .htaccess
+│
+└── .git/
+
 ```
 
 ---
